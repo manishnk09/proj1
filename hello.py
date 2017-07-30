@@ -9,3 +9,5 @@ print "Good Afternoon"
 # create one more student method and call the method
 
 #added something
+ msg = "Something"
+ print msg

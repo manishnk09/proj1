@@ -11,3 +11,5 @@ print "Good Afternoon"
 #added something
  msg = "Something"
  print msg
+
+#add new fibo function

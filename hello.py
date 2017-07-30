@@ -3,3 +3,9 @@
 print "Hello"
 print "Good Afternoon"
 # call the function from date.py and print the date.
+
+# create student object and call the method
+
+# create one more student method and call the method
+
+#added something
